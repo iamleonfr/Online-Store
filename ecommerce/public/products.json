@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 1299.99,
+        "inStock": false
+      },
+      {
+        "id": 3,
+        "name": "Headphones",
+        "category": "Accessories",
+        "price": 199.99,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Smartwatch",
+        "category": "Wearables",
+        "price": 249.99,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 499.99,
+        "inStock": false
+      }
+    ]
+  }
+  
